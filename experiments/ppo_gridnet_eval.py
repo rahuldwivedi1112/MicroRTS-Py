@@ -8,6 +8,7 @@ from distutils.util import strtobool
 
 import numpy as np
 import torch
+import torch.optim as optim
 from gym.spaces import MultiDiscrete
 from stable_baselines3.common.vec_env import VecMonitor, VecVideoRecorder
 from torch.utils.tensorboard import SummaryWriter
@@ -116,7 +117,7 @@ if __name__ == "__main__":
         num_bot_envs=len(ais),
         num_selfplay_envs=args.num_selfplay_envs,
         partial_obs=args.partial_obs,
-        max_steps=5000,
+        max_steps=3000,
         render_theme=2,
         ai2s=ais,
         map_paths=["maps/16x16/basesWorkers16x16A.xml"],
@@ -132,11 +133,16 @@ if __name__ == "__main__":
 
     agent = Agent(envs).to(device)
     agent2 = Agent(envs).to(device)
-
+    optimizer = optim.Adam(agent.parameters(), lr=args.learning_rate, eps=1e-5)
+    win = 0
+    draw = 0
+    lose = 0
     # ALGO Logic: Storage for epoch data
     mapsize = 16 * 16
+    action_space_shape = (mapsize, len(envs.action_plane_space.nvec))
     invalid_action_shape = (mapsize, envs.action_plane_space.nvec.sum())
 
+    invalid_action_masks = torch.zeros((args.num_steps, args.num_envs) + invalid_action_shape).to(device)
     # TRY NOT TO MODIFY: start the game
     global_step = 0
     start_time = time.time()
@@ -166,17 +172,17 @@ if __name__ == "__main__":
             global_step += 1 * args.num_envs
             # ALGO LOGIC: put action logic here
             with torch.no_grad():
-                invalid_action_masks = torch.tensor(np.array(envs.get_action_mask())).to(device)
+                invalid_action_masks[step] = torch.tensor(np.array(envs.get_action_mask())).to(device)
 
                 if args.ai:
                     action, logproba, _, _, vs = agent.get_action_and_value(
-                        next_obs, envs=envs, invalid_action_masks=invalid_action_masks, device=device
+                        next_obs, envs=envs, invalid_action_masks=invalid_action_masks[step], device=device
                     )
                 else:
                     p1_obs = next_obs[::2]
                     p2_obs = next_obs[1::2]
-                    p1_mask = invalid_action_masks[::2]
-                    p2_mask = invalid_action_masks[1::2]
+                    p1_mask = invalid_action_masks[step][::2]
+                    p2_mask = invalid_action_masks[step][1::2]
 
                     p1_action, _, _, _, _ = agent.get_action_and_value(
                         p1_obs, envs=envs, invalid_action_masks=p1_mask, device=device
@@ -199,9 +205,21 @@ if __name__ == "__main__":
                 if "episode" in info.keys():
                     if args.ai:
                         print("against", args.ai, info["microrts_stats"]["WinLossRewardFunction"])
+                        if info["microrts_stats"]["WinLossRewardFunction"] == 0.0:
+                            draw = draw + 1
+                        if info["microrts_stats"]["WinLossRewardFunction"] == 1.0:
+                            win = win + 1
+                        if info["microrts_stats"]["WinLossRewardFunction"] == -1.0:
+                            lose = lose + 1						
                     else:
                         if idx % 2 == 0:
                             print(f"player{idx % 2}", info["microrts_stats"]["WinLossRewardFunction"])
-
+        if win+draw+lose == 50:
+            break
+    print("win:",win)
+    print ("draw:",draw)
+    print("lose:",lose)
+    print("total Games:",win+draw+lose)
+    print("Preference Vector",envs.reward_weight)
     envs.close()
     writer.close()

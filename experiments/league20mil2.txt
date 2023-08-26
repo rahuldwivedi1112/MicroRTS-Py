@@ -1,0 +1,908 @@
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins rojo
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.7649504481268834], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.7630372253097221], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.7580627430424244]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.686, 4.834), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.765
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8419217945913401], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8399372634069426], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8355033642956393]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.967, 3.638), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.8355
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8734307540582208], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8690355027821863], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8556326716926205]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.027, 2.893), 🤖 rojo with N(26.345, 1.056)), quality is 0.869
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8211999736322426], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8134002275850039], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.7861163480749079]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(23.351, 2.581), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.8212
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.7547387133557203], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.7452875384428824], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.7107525358776714]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(22.218, 2.37), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.7547
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8872776345883592], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8806777825710643], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8588920518673469]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(24.312, 2.14), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.8873
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.933927332279167], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9306480771999407], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9223864745642236]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.759, 1.977), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9224
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9355190658704228], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.931274824725164], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9192955167003029]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.423, 1.827), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9193
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9348623062708072], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9298988256750191], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9151214702637313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.173, 1.708), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9349
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins guidedRojoA3N
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9405506658600737], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9358011830718077], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9219360738162292]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.275, 1.628), 🤖 rojo with N(26.345, 1.056)), quality is 0.9358
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins rojo
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9453245791802849], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9407852682055006], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9278048936599831]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(25.369, 1.558), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9278
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9318185427716852], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9258202527136874], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9069849162860327]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(24.816, 1.504), 🤖 rojo with N(26.345, 1.056)), quality is 0.9258
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt wins rojo
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9375947436896372], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9318524997487293], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9140942610879469]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt with N(24.933, 1.45), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9141
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2362368.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7                                         naiveMCTSAI  ...  23.671460
+8                                       guidedRojoA3N  ...  23.291784
+9                                                rojo  ...  23.176669
+10  models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  21.000351
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(25.0, 8.333), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.5656
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.7598351754027868], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.7545871521085293], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.7366069997399711]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(23.7, 4.203), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.7366
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.803485656138272], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.7967844989547963], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.7735917675210364]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(23.542, 3.208), 🤖 rojo with N(26.345, 1.056)), quality is 0.7968
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8960070111407427], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8951974016313823], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.895035067917957]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(26.557, 2.732), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.8952
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9150079680582717], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9119907412318934], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9044792703120885]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(25.785, 2.365), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.915
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9260981116098029], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9231772754800764], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9161937747903695]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(25.862, 2.161), 🤖 rojo with N(26.345, 1.056)), quality is 0.9232
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins rojo
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9342985067454553], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9314903743290454], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9250601788363634]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(25.932, 2.002), 🤖 rojo with N(26.345, 1.056)), quality is 0.9315
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9390336163351994], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9337903294884723], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9335838789843914]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(27.026, 1.875), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9336
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9440880068961774], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.939807007463082], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9397554369408226]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(26.935, 1.769), 🤖 rojo with N(26.345, 1.056)), quality is 0.9398
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9479931667973797], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9444992105103854], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9442722525078876]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(26.875, 1.68), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.948
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9526199153057046], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9512740023648397], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9507780885445929]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(26.496, 1.584), 🤖 rojo with N(26.345, 1.056)), quality is 0.9513
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.953666505299881], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9502968513837244], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9419736164260287]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(25.8, 1.521), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9537
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.957375224080273], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9559285587408959], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9551131103687245]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(26.468, 1.465), 🤖 rojo with N(26.345, 1.056)), quality is 0.9559
+rojo draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.960349264100193], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9579983426840256], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9537234102921882]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt with N(26.167, 1.402), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9603
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2558976.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7                                         naiveMCTSAI  ...  23.671460
+8                                       guidedRojoA3N  ...  23.291784
+9                                                rojo  ...  23.176669
+10  models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  21.548744
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.7632677319972876], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.762325032840037], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.7611005801615361]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(26.328, 4.89), 🤖 rojo with N(26.345, 1.056)), quality is 0.7623
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt wins rojo
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8409323881904834], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8396281661977125], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8378214191552876]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(26.306, 3.663), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.8378
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8773611127639457], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8734054481957598], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8617575847664003]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(25.231, 2.902), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.8774
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9018105465599615], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8934442179837501], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8922868994051125]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(27.41, 2.551), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9018
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9225062438637965], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9152474493834208], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9144520713116866]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(27.248, 2.189), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9225
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9348837697974494], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9283470791750604], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9277856627221612]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(27.153, 1.948), 🤖 rojo with N(26.345, 1.056)), quality is 0.9283
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9429680553874658], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9404532061045062], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9352850119201737]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(26.064, 1.828), 🤖 rojo with N(26.345, 1.056)), quality is 0.9405
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9473273027088857], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9448680424852733], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.939979126101517]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(26.096, 1.73), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.94
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9526623819125576], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9504513764291131], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.946603472629002]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(26.196, 1.605), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9527
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9552883012435623], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.953070111692419], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9492335079847997]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(26.2, 1.539), 🤖 rojo with N(26.345, 1.056)), quality is 0.9531
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9519023285674308], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9478560051374424], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9368839387650204]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(25.564, 1.482), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9519
+guidedRojoA3N wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9546069707159933], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9506791270168428], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9402066629979611]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt with N(25.615, 1.43), 🤖 rojo with N(26.345, 1.056)), quality is 0.9507
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2755584.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7                                         naiveMCTSAI  ...  23.671460
+8                                       guidedRojoA3N  ...  23.291784
+9                                                rojo  ...  23.176669
+10  models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  20.939801
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(33.597, 5.303), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7351
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8166041590817982], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8165155947794156], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.7954246488850762]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(29.148, 4.022), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8165
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8663558475339599], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8660521428383705], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8450172158179513]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(29.307, 3.234), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8661
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8915911180960825], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8872667805259633], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8871354066442952]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(27.008, 2.798), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.8871
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9028864156568365], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9014401167951502], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8702322309187993]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(28.7, 2.503), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9014
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9171267501237724], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9093810749504693], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9084390137195354]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(27.308, 2.283), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9171
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9315079545900811], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.924615495024866], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9239484126462011]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(27.193, 2.013), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9239
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9194829232147773], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9179329566831965], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9160676324620731]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(28.132, 1.892), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9179
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt wins naiveMCTSAI
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9322646099327957], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9296609748784644], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9139177832517543]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(28.403, 1.761), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9139
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9371382686296971], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.923387595714192], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9209379662375212]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(27.797, 1.648), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9371
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9442829204538163], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9317536603005212], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.929651141624948]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(27.666, 1.54), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9443
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9537433497946589], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9455572909700586], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9446320958100966]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt with N(27.262, 1.466), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9537
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/2952192.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7                                         naiveMCTSAI  ...  23.671460
+8                                       guidedRojoA3N  ...  23.291784
+9                                                rojo  ...  23.176669
+10  models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  23.043921
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(33.535, 5.309), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7344
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8160493698009378], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8158694426982087], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.7939722791421147]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(29.106, 4.028), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.794
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8600419224040327], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8588810498574132], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8578568099182241]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(26.416, 3.351), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.8579
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins naiveMCTSAI
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8897296093386644], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8887183430425988], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8886463300310469]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(26.532, 2.844), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.8897
+guidedRojoA3N draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9088368896580933], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9010089147823973], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9000166647660583]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(27.337, 2.437), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9088
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins naiveMCTSAI
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.91153252291922], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9006968099727378], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8975703714092353]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(27.921, 2.168), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9007
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9146845885874451], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9126184340080817], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9113554250986643]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(28.141, 2.009), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9147
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9365696595143588], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9290391469786066], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9282227552092182]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(27.242, 1.892), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9282
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9238226928673591], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9219649163212148], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9183244978658618]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(28.076, 1.791), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9238
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9347882569098189], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9207236692449337], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9201594401033021]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(27.882, 1.653), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9348
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9424972900386507], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9291912791113215], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9268779117555793]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(27.739, 1.544), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9425
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9481792379287469], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9359320563810236], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9339179979609186]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(27.628, 1.455), 🤖 rojo with N(26.345, 1.056)), quality is 0.9359
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9375655454816589], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9364125418564354], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9339084134704074]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt with N(28.124, 1.411), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9376
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3148800.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7                                         naiveMCTSAI  ...  23.671460
+8   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  23.544854
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(33.535, 5.309), 🤖 droplet with N(34.391, 0.909)), quality is 0.7339
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8159650654861632], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8159265926317262], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.796102171031135]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(29.207, 4.036), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.7961
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins mixedBot
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8662369332413203], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8646532598955637], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8568520065382641]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(29.807, 3.234), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8662
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins tiamat
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8939177730597135], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8923936854895167], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.881591925866278]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(29.731, 2.769), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8939
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8977458401363586], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8849764705229668], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8848726282807976]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(27.876, 2.469), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.885
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9044826298506912], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9017102845306566], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9013118689774061]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(28.154, 2.239), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9013
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9182749809373244], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9156886955191674], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9025117353495714]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(28.372, 2.065), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9183
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9277188308969943], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9255297430711507], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.903093060255069]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(28.514, 1.926), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9277
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9336219519143566], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9218038173520208], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9198499340396701]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(27.64, 1.82), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9198
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9328701578307201], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9301780659277789], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9159363353814406]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(28.379, 1.732), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9159
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9314921792705408], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9285815179036808], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9280107538936322]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(28.152, 1.607), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9286
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9375127796902478], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9295541478359158], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.925471209769123]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(27.982, 1.506), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9375
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9441032429703832], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9294278489842086], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9274880469370835]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt with N(27.849, 1.424), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9441
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3345408.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  23.679491
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(33.535, 5.309), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.7352
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8161914522581261], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8160915522559559], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.7949259731933384]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(29.143, 4.028), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.7949
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins mixedBot
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8666906365991329], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8652116877032734], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8562905953333001]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(29.766, 3.229), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8667
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8890172623204967], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8811925890817228], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8801349820904595]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(27.39, 2.788), 🤖 rojo with N(26.345, 1.056)), quality is 0.8812
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9067584033814465], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9062534960050976], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8739133211591634]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(29.019, 2.5), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.8739
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9086363404544535], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8962221833733404], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8940250852821364]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(27.787, 2.293), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9086
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9308241714481703], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9263811506400654], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9263549223304753]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(26.963, 2.059), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9308
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9403431485564953], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9361645844943819], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9361027220436735]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(26.931, 1.855), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9403
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9469599511974577], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9429911466078598], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9428660919941194]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(26.91, 1.703), 🤖 rojo with N(26.345, 1.056)), quality is 0.9429
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9415430756168358], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9294486613651669], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9274505841961247]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(27.638, 1.627), 🤖 rojo with N(26.345, 1.056)), quality is 0.9294
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.935873971740771], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.93268738065681], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9269073128842121]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(28.247, 1.564), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9269
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9359716117730429], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9338572853362829], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9300578132044076]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt with N(28.073, 1.472), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.936
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3542016.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  23.752310
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(25.0, 8.333), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.5656
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8331880648205258], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8321562516583184], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8313171499894972]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(26.428, 3.781), 🤖 rojo with N(26.345, 1.056)), quality is 0.8322
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8715866778477454], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8711789917055492], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8507806664039719]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(29.345, 3.15), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8716
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.893861845225318], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8880795109709387], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8875734146812523]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(27.16, 2.742), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.8876
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9059213522725628], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9046666666279763], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8693198888180208]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(28.768, 2.464), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9047
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt wins tiamat
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9194472102150029], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9185759925172076], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8816958563090401]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(28.908, 2.235), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9194
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9287723291569052], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9281192706452609], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8923744002760049]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(28.985, 2.061), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9281
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9214402610595626], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9123810850882149], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9084412450582315]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(27.957, 1.929), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9124
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9227192877152078], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9211081245620948], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9192690047557225]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(28.133, 1.815), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9211
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.932905548215601], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.921575497702043], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9178652346762468]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(27.926, 1.672), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9216
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.931787307542954], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9290439157238034], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9252671760977094]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(28.063, 1.597), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9318
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9468447380833667], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9350931717721367], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9332046043810774]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(27.59, 1.513), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9468
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9515576848650655], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9406798464790033], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9390385186644766]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt with N(27.501, 1.429), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9516
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3738624.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7                                         naiveMCTSAI  ...  23.671460
+8   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  23.352367
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(33.597, 5.303), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7351
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8293663148818231], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8284632366854588], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.827543066005719]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(33.912, 3.848), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8294
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8690443556908733], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8498898275994664], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8453939901238346]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(30.984, 3.194), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8454
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.894523929874306], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8850167276158326], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8812353155701843]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(30.552, 2.749), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8812
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9089564226515087], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9059544741258269], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9026690724090926]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(30.302, 2.445), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9027
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9168493448693138], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.915248404672549], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8841584605091226]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(28.673, 2.222), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9152
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9271610137747089], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9259455404246144], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8856613399852249]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(28.809, 2.051), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9272
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9345130664295842], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9335371632045476], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8942727103623355]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(28.89, 1.914), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.8943
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9228228551776329], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9209406656221569], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9193868939717444]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(28.137, 1.816), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9194
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9416090041421731], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9321858229835498], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9308903784254073]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(27.401, 1.729), 🤖 rojo with N(26.345, 1.056)), quality is 0.9322
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9284377980547298], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9283085553251066], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9246910415279758]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(28.104, 1.652), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9283
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.934641056843192], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9313848011938379], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9271474482238065]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(28.225, 1.58), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9346
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9455381752246275], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9332734566577062], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9312451113390422]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(27.639, 1.522), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9312
+guidedRojoA3N draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9439480472925882], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9296752666406256], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9271127162474957]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(27.816, 1.453), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9271
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9425864416194123], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9394878583260903], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9306550650472112]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt with N(28.291, 1.409), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9426
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/3935232.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  23.707087
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(33.597, 5.303), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7351
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8338663244468101], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8036933646851958], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8018846602656305]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(31.95, 3.597), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.8339
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8771762504910094], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.876389710168244], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8440401569194127]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(28.897, 3.006), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8772
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9002180109042708], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.899746955845852], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8683069076986603]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(29.027, 2.622), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8997
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9167808012794718], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.899970709698292], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8952628322749301]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(30.784, 2.357), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8953
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9260443024534103], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9155601051904915], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9113758985099254]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(30.55, 2.157), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.926
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9341356620086213], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9334583233859803], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9101975649770946]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(29.4, 2.006), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9341
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9401197093216915], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9393643115892981], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9163271090498025]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(29.419, 1.877), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9394
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9337329514374285], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.931412994568132], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9101399296486983]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(28.488, 1.773), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9101
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9327281490496065], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.929534812080702], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9245456771262192]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(28.236, 1.639), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.9245
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins naiveMCTSAI
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9315141130533728], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9314319733597992], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9278697479228437]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(28.108, 1.569), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9279
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9476647741094688], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9363715179215008], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9346065222723693]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(27.548, 1.513), 🤖 rojo with N(26.345, 1.056)), quality is 0.9364
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9513123341499992], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.9409676829937077], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.9394656955470606]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(27.455, 1.458), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.9395
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.9414980562164228], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.931866915539952], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9276592858450445]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt with N(27.957, 1.413), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9277
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4131840.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5                                              tiamat  ...  26.506154
+6                                         lightRushAI  ...  26.254774
+7                                         naiveMCTSAI  ...  23.671460
+8   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  23.387955
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(33.535, 5.309), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.7352
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8299885817438759], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8289084082617456], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8282746111106766]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(33.847, 3.833), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.83
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8746177992210032], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8737475743423857], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.872358027884825]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(33.973, 3.124), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8724
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8891357577965874], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8889112600993712], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8849003896685466]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(33.0, 2.61), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8889
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9105845630071453], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8725452666808385], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8658285248509807]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(31.555, 2.369), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8725
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8998200183392304], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8991611409624884], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8934074159788034]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(32.65, 2.192), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8992
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9251387439826452], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8827307960175639], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.875452728062736]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(31.639, 2.044), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9251
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins mixedBot
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9331881486055377], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8929997246694753], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.885859212563947]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(31.531, 1.908), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8859
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9408560066696046], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9368538020447534], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9331459767947765]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(30.323, 1.789), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9369
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins tiamat
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9435886319511593], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.942178287145838], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9386925500881822]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(30.24, 1.697), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9422
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9509296690642436], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9269023828372421], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9211490225503337]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(30.952, 1.623), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9211
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9474761942321986], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9051791011485135], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8976933894858737]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(31.539, 1.561), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8977
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9375989360646293], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.901622866046446], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8991980281601618]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(32.043, 1.509), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9376
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins mixedBot
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9422264472276631], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8985554608527961], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8958554919768813]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(31.948, 1.454), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8986
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9534295066884689], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.911272118244375], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9037398536574766]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt with N(31.511, 1.412), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9534
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4328448.pt wins mixedBot
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  27.361154
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(25.0, 8.333), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.5656
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8331880648205258], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8321562516583184], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8313171499894972]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(26.428, 3.781), 🤖 rojo with N(26.345, 1.056)), quality is 0.8322
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8715866778477454], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8711789917055492], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8507806664039719]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(29.345, 3.15), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8716
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins tiamat
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8971741911210701], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8965875325313059], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8758204801190338]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(29.395, 2.714), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8966
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9118219263541522], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8849952329950855], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8793589606253642]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.154, 2.432), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9118
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.923555546558365], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.89726207100544], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8915647390502666]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.1, 2.211), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9236
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9320617723324451], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9061738256116738], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9004320710792556]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.062, 2.041), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9062
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9389272433135212], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9185556529950566], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9132802807539365]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(30.861, 1.906), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9389
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9438708224197845], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9232126256540087], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9178587621532557]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(30.86, 1.795), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9179
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9408964530639664], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8983203552235784], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8908731112813794]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.575, 1.711), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8983
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9472162962024242], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9100954738967044], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9031128247188704]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.378, 1.631), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9472
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins mixedBot
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9505763780756978], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9146347600674043], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9077320792123813]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.329, 1.561), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9077
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9544952189765733], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9232471682208898], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9167581094291184]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.17, 1.501), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9545
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.956685232888824], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9260049517246386], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9195480380062936]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.146, 1.447), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9195
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9519739122900578], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9068466640131511], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.899042522643698]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt with N(31.607, 1.404), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.899
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/4525056.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4                                            mixedBot  ...  27.796883
+5   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  27.372069
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]

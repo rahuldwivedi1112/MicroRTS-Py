@@ -186,6 +186,7 @@ class Match:
                 ai2s=built_in_ais,
                 map_paths=[map_path],
                 reward_weight=np.array([10.0, 1.0, 1.0, 0.2, 1.0, 4.0]),
+                #reward_weight=np.array([10.0, 2.0, 4.0, 2.0, 4.0, 2.0]),
                 autobuild=False,
             )
             self.agent = Agent(self.envs).to(self.device)
@@ -280,6 +281,7 @@ class Match:
                 action[1::2] = p2_action
 
             try:
+                #envs.reward_weight = np.array([10.0,random.randrange(0,6,2),random.randrange(0,6,2),random.randrange(0,6,2),random.randrange(0,6,2),random.randrange(0,6,2)])
                 next_obs, rs, ds, infos = self.envs.step(action.cpu().numpy().reshape(self.envs.num_envs, -1))
                 next_obs = torch.Tensor(next_obs).to(self.device)
             except Exception as e:

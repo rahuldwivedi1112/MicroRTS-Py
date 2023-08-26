@@ -1,0 +1,1581 @@
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(33.597, 5.303), 🤖 droplet with N(34.391, 0.909)), quality is 0.7348
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.81655025755311], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8164201507916905], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.7975006249509693]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(29.249, 4.03), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8164
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8390639475144419], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8382900163356698], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8374102051572964]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(32.525, 3.293), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8391
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8778337885345207], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8776527259731105], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8737042990588603]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(32.984, 2.812), 🤖 droplet with N(34.391, 0.909)), quality is 0.8737
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9025135580277808], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9015496977309301], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8992095395499493]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(33.304, 2.489), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9025
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9178393130274443], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9164084808810598], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9150085716531905]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(33.475, 2.253), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9164
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9308708914744558], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9286082147405171], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9237698204668245]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(34.855, 2.075), 🤖 droplet with N(34.391, 0.909)), quality is 0.9309
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9415222948971409], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.941476014282087], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9380334431687014]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(34.241, 1.898), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9415
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9464458838550323], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9463982595938728], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9429026136437825]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(34.24, 1.787), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9429
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9503781541604153], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9502855032996962], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9468194002788725]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(34.229, 1.696), 🤖 droplet with N(34.391, 0.909)), quality is 0.9503
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.953628759544272], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.953602426776257], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9499900543109357]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(34.246, 1.616), 🤖 izanagi with N(34.125, 1.06)), quality is 0.95
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9563241745403666], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9562500918053337], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9526853387902724]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(34.234, 1.549), 🤖 droplet with N(34.391, 0.909)), quality is 0.9563
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9533738766062642], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9514635432973421], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9506760756503199]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(33.589, 1.49), 🤖 droplet with N(34.391, 0.909)), quality is 0.9507
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9606148440824802], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9605752183496604], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9568137600278671]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt with N(34.262, 1.436), 🤖 droplet with N(34.391, 0.909)), quality is 0.9606
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13372416.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  29.529926
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(25.0, 8.333), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.5656
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8331880648205258], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8321562516583184], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8313171499894972]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(26.428, 3.781), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.8313
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8904914622506345], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8901034744629492], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8896207318925704]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(26.592, 2.824), 🤖 rojo with N(26.345, 1.056)), quality is 0.8896
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8970661840992226], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8947915944818005], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8800615621914395]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(28.415, 2.515), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8948
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9169730110370751], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9161213548359819], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9139914870638638]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(30.166, 2.271), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.914
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins lightRushAI
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9274808270028476], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.924787440249589], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9229494770271227]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(30.044, 2.09), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9248
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.936034348040913], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9090531528146009], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9031655721300312]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(31.087, 1.954), 🤖 tiamat with N(29.545, 1.013)), quality is 0.9091
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9279132338449142], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.883646613660272], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8809953396964874]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(31.913, 1.847), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9279
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9203908193930468], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9198317942253748], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9138962618697013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(32.705, 1.753), 🤖 droplet with N(34.391, 0.909)), quality is 0.9139
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9314599706461101], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8959117617124298], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8935302304839144]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(32.039, 1.676), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8959
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9282350946581464], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.907545195485644], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9056671940537393]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(32.233, 1.6), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9075
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9453282834549753], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8985057809126702], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8906044296979442]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(31.688, 1.543), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8985
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9338954092758613], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9087121412122016], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.906659688230643]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(32.18, 1.492), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9339
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9313745988007165], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9307634403268126], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9245639937300631]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt with N(32.696, 1.444), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9314
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13569024.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  28.380006
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(33.597, 5.303), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.736
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.830275030333257], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8292733703547625], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8285077143864383]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(33.877, 3.831), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8303
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8747597156758912], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8739490520722997], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8724600355748314]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(33.992, 3.123), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8748
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9000412104689118], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8993608220856079], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8974058495526673]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(34.052, 2.695), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8974
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9160215458998716], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9153523625860451], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9132126393210619]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(34.065, 2.405), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9132
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9271090936271521], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9264486777721153], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.924175707092005]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(34.074, 2.192), 🤖 droplet with N(34.391, 0.909)), quality is 0.9264
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9249344888641489], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9208357848976437], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9148961700110968]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(35.347, 2.028), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9149
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9235520761051768], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9181706894952575], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9114340113189359]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(35.67, 1.868), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9114
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9475200550323941], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9462459325243427], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9418511557007277]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(34.575, 1.758), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9419
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9479812291925189], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9458015043603278], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9457958050982499]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(33.704, 1.671), 🤖 droplet with N(34.391, 0.909)), quality is 0.9458
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.951829918585097], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9498859515395477], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9494503462065892]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(33.77, 1.595), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9495
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9547194836619558], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9528870911932925], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9522346817722127]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(33.801, 1.53), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9522
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9593768830209959], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9584982380817191], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9542190605364822]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(34.467, 1.473), 🤖 droplet with N(34.391, 0.909)), quality is 0.9594
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9555870071450994], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9522832072238508], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9465099803231191]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt with N(35.061, 1.423), 🤖 droplet with N(34.391, 0.909)), quality is 0.9556
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13765632.pt wins droplet
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  30.882617
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins rojo
+rojo wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.7649504481268834], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.7630372253097221], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.7580627430424244]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(25.686, 4.834), 🤖 rojo with N(26.345, 1.056)), quality is 0.763
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8342081003487872], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8321739584471814], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8316115650456456]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(30.076, 3.723), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.8316
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.866556179702356], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8659576748719876], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8632389059808614]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(33.181, 3.092), 🤖 droplet with N(34.391, 0.909)), quality is 0.8632
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8958933938307106], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.894521015021647], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8933255395959532]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(33.493, 2.673), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8959
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9134473885073395], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9116254212727813], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9112936113005011]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(33.649, 2.389), 🤖 droplet with N(34.391, 0.909)), quality is 0.9113
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9307516272437697], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9298970932449249], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9259544172359361]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(34.481, 2.127), 🤖 droplet with N(34.391, 0.909)), quality is 0.9308
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9381419834229959], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.937311686545583], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.933303316455505]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(34.469, 1.974), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9333
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9438348799912202], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9431536431712682], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9391765578069821]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(34.427, 1.851), 🤖 droplet with N(34.391, 0.909)), quality is 0.9438
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.941742700670566], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9400994779201551], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9388359416595293]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(33.513, 1.751), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9417
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9519736189079288], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9513538461292534], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9473238372163798]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(34.407, 1.663), 🤖 droplet with N(34.391, 0.909)), quality is 0.952
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9506015862109318], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.948528810283851], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9482044097624174]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(33.657, 1.59), 🤖 droplet with N(34.391, 0.909)), quality is 0.9482
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9539621399988877], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9517957873921241], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9517017500383381]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(33.719, 1.525), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9517
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.959646589030066], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9590976090209621], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.955024376709737]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(34.386, 1.468), 🤖 droplet with N(34.391, 0.909)), quality is 0.9596
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9615082192102038], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9609587165190927], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9568635563155793]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt with N(34.386, 1.417), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9569
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/13962240.pt wins izanagi
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  30.250963
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(33.535, 5.309), 🤖 droplet with N(34.391, 0.909)), quality is 0.7339
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8305715498234267], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8297114293410753], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8287099822160063]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(33.93, 3.831), 🤖 droplet with N(34.391, 0.909)), quality is 0.8297
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8734398914237238], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8696612957754758], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8644430380330059]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(35.448, 2.972), 🤖 droplet with N(34.391, 0.909)), quality is 0.8734
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8938127586261247], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8931903877818576], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8901187036570227]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(33.168, 2.598), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8932
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8945571015755357], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8938302066532575], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8880559075195933]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(32.618, 2.282), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8946
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9322972695212879], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9319623375203072], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9290969920622868]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(34.164, 2.092), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9323
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9294748283364606], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9254883745463012], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9195713568087722]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(35.303, 1.95), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9196
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9069166527000325], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9013864990593923], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8997846476364562]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(36.165, 1.842), 🤖 droplet with N(34.391, 0.909)), quality is 0.9069
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9277190085391676], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8748440526491609], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8653184727370371]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(36.885, 1.752), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8653
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9238206793635526], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8923640929247796], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8835682217433453]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(36.615, 1.666), 🤖 droplet with N(34.391, 0.909)), quality is 0.8924
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9396614593435], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8620188349990012], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.851462904472079]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(37.178, 1.602), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9397
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9261468504724787], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.900229795626412], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8915352332381571]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(36.543, 1.54), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8915
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9407975961490703], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8748308090558439], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.864589332958695]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(37.023, 1.49), 🤖 droplet with N(34.391, 0.909)), quality is 0.8748
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins droplet
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9442324620416384], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8728878543689211], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8624017223665921]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt with N(37.082, 1.427), 🤖 droplet with N(34.391, 0.909)), quality is 0.8729
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14158848.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  32.745769
+2                                             droplet  ...  31.663194
+3                                        workerRushAI  ...  31.471162
+4                                             izanagi  ...  30.943700
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(25.0, 8.333), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.5656
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+naiveMCTSAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.7598351754027868], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.7545871521085293], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.7366069997399711]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(23.7, 4.203), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.7366
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8726183706277768], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8687367119245732], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8573160265945673]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(25.235, 2.987), 🤖 rojo with N(26.345, 1.056)), quality is 0.8687
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8968253721137237], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8873583852413328], [<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8858956517984559]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(27.538, 2.61), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.8859
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9130282221811519], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9123104329254788], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8774362762925336]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(28.953, 2.37), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.8774
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.926718019211171], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9127754061151666], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.9082481363352269]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(30.667, 2.156), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.9082
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9256436610908612], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8816806670256672], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8742470539287329]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(31.688, 2.013), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8742
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9078133970962855], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9062512778412264], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9050954285605464]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(32.476, 1.902), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9078
+mixedBot wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+mixedBot draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9347132016650054], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8865407839607341], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.879817742221722]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(31.779, 1.761), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8865
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9191217094527545], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9116765965520659], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9102764553120567]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(32.401, 1.686), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9117
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9208056120107851], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9198387036173107], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9155863957155347]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(32.563, 1.609), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9198
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9484185903397014], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9470041053935935], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9450411521905493]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(33.415, 1.537), 🤖 izanagi with N(34.125, 1.06)), quality is 0.947
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9516873824584623], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9501062657826735], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9485099985037]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(33.471, 1.479), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9501
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9389870431551104], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9389735262224014], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9336093062439779]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt with N(32.916, 1.431), 🤖 izanagi with N(34.125, 1.06)), quality is 0.939
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14355456.pt wins izanagi
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  28.848039
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(25.0, 8.333), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.5656
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8331880648205258], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8321562516583184], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8313171499894972]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(26.428, 3.781), 🤖 rojo with N(26.345, 1.056)), quality is 0.8322
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8715866778477454], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8711789917055492], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8507806664039719]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(29.345, 3.15), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8716
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8898780965551036], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8524951251682398], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8460303731076105]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(31.625, 2.735), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8525
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins tiamat
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8964934010398242], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8962304412933342], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8922024329591745]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(33.014, 2.476), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8965
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9131848608057468], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8704556108018344], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.863258797346406]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(31.705, 2.266), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8633
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9043663080164565], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9037711514859867], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8980419830494394]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(32.678, 2.112), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9044
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9335417670026606], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9320331727916896], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9305678781528726]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(33.477, 1.924), 🤖 droplet with N(34.391, 0.909)), quality is 0.9306
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9454593458701376], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9442551113470318], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9399278496247606]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(34.559, 1.807), 🤖 droplet with N(34.391, 0.909)), quality is 0.9455
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9369942741993591], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9324549700644128], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.926106449208043]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(35.414, 1.715), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9261
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9177734593454193], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9107261968167147], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9055844062327343]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(36.086, 1.641), 🤖 droplet with N(34.391, 0.909)), quality is 0.9178
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9263416872009534], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9197796497624409], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9122690554504411]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(35.933, 1.569), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9198
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9247646811668906], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9045483798182579], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8960556106619568]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(36.474, 1.514), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9248
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9292657423571603], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9225530084362836], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9149165042361278]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt with N(35.952, 1.465), 🤖 droplet with N(34.391, 0.909)), quality is 0.9293
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14552064.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  31.320396
+4                                             izanagi  ...  30.943700
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(33.597, 5.303), 🤖 droplet with N(34.391, 0.909)), quality is 0.7348
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.81655025755311], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8164201507916905], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.7975006249509693]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(29.249, 4.03), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.7975
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8533414052967733], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.853140032495182], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8496028103821541]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(32.999, 3.252), 🤖 droplet with N(34.391, 0.909)), quality is 0.8496
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins droplet
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9018792568205423], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9009230176306537], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8972203361798191]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(34.533, 2.668), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9009
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9175931494885332], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9168059946400947], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9130473960386527]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(34.472, 2.384), 🤖 izanagi with N(34.125, 1.06)), quality is 0.913
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9284205835273229], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9278226654357424], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9240683501461423]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(34.413, 2.176), 🤖 droplet with N(34.391, 0.909)), quality is 0.9284
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9363838789263038], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9357784135709563], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9319322350126884]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(34.411, 2.013), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9319
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9424212317035132], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9419440270044934], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9381122771985985]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(34.375, 1.883), 🤖 droplet with N(34.391, 0.909)), quality is 0.9424
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9367155533646345], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9325839558652311], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9264965932330739]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(35.315, 1.778), 🤖 droplet with N(34.391, 0.909)), quality is 0.9367
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9425360653327226], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9387221203247235], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9327720619062025]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(35.219, 1.686), 🤖 droplet with N(34.391, 0.909)), quality is 0.9425
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9396407800401306], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9347046129428503], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9280761529978633]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(35.499, 1.591), 🤖 droplet with N(34.391, 0.909)), quality is 0.9396
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9562269691846333], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9543527076495552], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9494783536612684]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(34.714, 1.523), 🤖 droplet with N(34.391, 0.909)), quality is 0.9562
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9585708556968925], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9567842113419418], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9519385221332123]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(34.689, 1.466), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9568
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9606672318766608], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.959014004527016], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9542287350921779]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt with N(34.654, 1.416), 🤖 droplet with N(34.391, 0.909)), quality is 0.9607
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14748672.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  30.521062
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(33.597, 5.303), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7351
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8166041590817982], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8165155947794156], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.7954246488850762]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(29.148, 4.022), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.7954
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8519415818494775], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8519017226926388], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8479739037511972]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(32.921, 3.244), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8519
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8789999713345705], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8615717181487937], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8600142191872883]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(32.234, 2.684), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8616
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8893766463899604], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8886871012886004], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8830503983261088]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(32.627, 2.397), 🤖 droplet with N(34.391, 0.909)), quality is 0.8831
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9198695071101708], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8831340692758236], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8764568338477976]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(31.471, 2.21), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.8765
+lightRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9314611843308828], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.9027241949805108], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8967116766049112]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(31.159, 2.041), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9315
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9169691132526211], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8946178603065722], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8927369995653763]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(32.2, 1.912), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8946
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins izanagi
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9272672786679979], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9271719341213501], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9222159402034026]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(32.945, 1.768), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9273
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.949986757191687], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9486377567587533], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9472439356377063]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(33.915, 1.675), 🤖 droplet with N(34.391, 0.909)), quality is 0.9486
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9534106313204845], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9522254695410947], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9505228543380198]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(33.959, 1.599), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9534
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9456309155158956], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9445813130433267], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9417380546349129]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(33.284, 1.535), 🤖 droplet with N(34.391, 0.909)), quality is 0.9417
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9517276631032917], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9503015418085312], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9483097248371521]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt with N(33.414, 1.447), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9503
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt wins izanagi
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/14945280.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  29.602693
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(33.535, 5.309), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.7352
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8161914522581261], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8160915522559559], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.7949259731933384]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(29.143, 4.028), 🤖 tiamat with N(29.545, 1.013)), quality is 0.8161
+tiamat wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins tiamat
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8661381072333943], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8658421958698438], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8447448534978031]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(29.304, 3.237), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.8447
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8799262289703454], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8491371852841355], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8471365928169021]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(32.025, 2.77), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8471
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9144354220728926], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9142339664429402], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9108811311073631]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(34.309, 2.443), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9142
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9261366455009479], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9259747155146295], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9225221579217714]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(34.296, 2.219), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9225
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9345125307486006], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.93445055033323], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9309701579717904]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(34.269, 2.048), 🤖 droplet with N(34.391, 0.909)), quality is 0.9345
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9397635319882219], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9378685258087068], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9374886887550855]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(33.764, 1.879), 🤖 droplet with N(34.391, 0.909)), quality is 0.9379
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9452390336993591], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9436044603906766], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9427345016870283]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(33.837, 1.772), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9452
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9333033055572435], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9329572661034955], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9285364902569222]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(33.036, 1.685), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9333
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9528617692511989], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9515062814924166], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9500902906199457]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(33.916, 1.605), 🤖 droplet with N(34.391, 0.909)), quality is 0.9515
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.957569060773711], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9573330718288229], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9534823578439094]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(34.31, 1.52), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9573
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9555301012096603], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9533923238349952], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9531459581549991]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(33.669, 1.465), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9555
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9615311937303815], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.961324860974106], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9574470361133313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt with N(34.302, 1.414), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9613
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15141888.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  29.633695
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(33.535, 5.309), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7344
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8146022287660747], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.700704098047544], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.6915705468262063]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(38.448, 3.971), 🤖 droplet with N(34.391, 0.909)), quality is 0.7007
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8735977422675282], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8701831885327498], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.865194897472796]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(35.337, 3.007), 🤖 droplet with N(34.391, 0.909)), quality is 0.8736
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.88074878830007], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8747862339272683], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.868114517015276]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(36.026, 2.54), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8748
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9092988761454353], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.830599911391278], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8207387827107997]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(37.298, 2.323), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9093
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8990289308819157], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8926049230111898], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8854629269849148]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(36.042, 2.142), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8926
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.914993194664495], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.909315567907185], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.90248144884048]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(35.781, 1.987), 🤖 droplet with N(34.391, 0.909)), quality is 0.915
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9110884637716153], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.904279048400907], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.897760518199853]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(36.068, 1.835), 🤖 droplet with N(34.391, 0.909)), quality is 0.9111
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.925691883521759], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8802005629003969], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8709442151752906]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(36.793, 1.746), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9257
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9168548480059683], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.90983749817892], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.904562884341963]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(36.084, 1.668), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9046
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins coacAI
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9138084548584031], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.912471497761309], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9048148782610291]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(36.249, 1.594), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9048
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9221963558856389], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9150949250011001], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.908868733009222]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(36.074, 1.529), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9089
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9417143242739971], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9364394882237925], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9295742786116987]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(35.57, 1.48), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9364
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9252318281200056], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.918033286390371], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.912190118783751]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt with N(36.079, 1.433), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9122
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15338496.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  31.455838
+4                                             izanagi  ...  30.943700
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(33.535, 5.309), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7344
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8146022287660747], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.700704098047544], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.6915705468262063]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(38.448, 3.971), 🤖 droplet with N(34.391, 0.909)), quality is 0.7007
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8541828867943388], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.809716256541712], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8021442861385023]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(36.941, 3.229), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8021
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8792007683855441], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7255299200154918], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7139481435176509]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(38.636, 2.849), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.7139
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.864211791065696], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.647845138529681], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.6345964750680596]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(39.717, 2.603), 🤖 coacAI with N(37.891, 1.235)), quality is 0.8642
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9123831136997822], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8026577552486264], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7917728092831802]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(37.741, 2.333), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.7918
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9160266436960994], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8457950780990914], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8360351664865905]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(37.154, 2.141), 🤖 droplet with N(34.391, 0.909)), quality is 0.8458
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.914652545131331], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8736047897309134], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8647568143342316]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(36.755, 1.986), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9147
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9170788382520947], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9110147146075717], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9039150913947449]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(35.863, 1.873), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.911
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9196003654085443], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8882006401075685], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8795145894493919]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(36.62, 1.778), 🤖 droplet with N(34.391, 0.909)), quality is 0.8882
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9350928507312215], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9300648729497984], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.92342794327796]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(35.538, 1.68), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9234
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9416091472042023], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9370430720154119], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9306270539170101]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(35.404, 1.604), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9306
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9467434289887604], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.942566230099828], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9363394505217769]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(35.294, 1.538), 🤖 droplet with N(34.391, 0.909)), quality is 0.9467
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9435456834676532], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9384402009848517], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9316617958062717]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(35.523, 1.466), 🤖 droplet with N(34.391, 0.909)), quality is 0.9435
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9551589328196087], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9515752299080881], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9456295747414909]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt with N(35.128, 1.401), 🤖 droplet with N(34.391, 0.909)), quality is 0.9552
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15535104.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  31.003920
+4                                             izanagi  ...  30.943700
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(33.597, 5.303), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7351
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8294641688960573], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.828319685731364], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8277964152396605]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(33.822, 3.838), 🤖 droplet with N(34.391, 0.909)), quality is 0.8283
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8591562143088016], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8097427987917247], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8019068325854981]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(37.01, 3.164), 🤖 droplet with N(34.391, 0.909)), quality is 0.8097
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.891710027906546], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8212143249062713], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8120047322090339]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(37.24, 2.645), 🤖 droplet with N(34.391, 0.909)), quality is 0.8212
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9051233652180508], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7522714433897806], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.740207981907715]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(38.427, 2.418), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9051
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9079934117476058], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8575816671797047], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8486142472459287]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(36.897, 2.206), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8486
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9256096029945188], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.808347642164167], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.796937366631061]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(37.781, 2.066), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9256
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9154612560803755], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8786091978664813], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8698661797762204]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(36.698, 1.932), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9155
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9192104978849677], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9131363974545618], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9060082297594112]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(35.855, 1.828), 🤖 droplet with N(34.391, 0.909)), quality is 0.9192
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9204313988685193], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8908379593987913], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.882183836950457]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(36.596, 1.739), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9204
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9237530674248483], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9173476172003888], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.909962972704682]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(35.91, 1.663), 🤖 izanagi with N(34.125, 1.06)), quality is 0.91
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9205624311537342], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9134896025311351], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9075027707822779]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(36.076, 1.573), 🤖 droplet with N(34.391, 0.909)), quality is 0.9206
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9412721418470604], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9360047069298246], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9291490303536444]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(35.57, 1.492), 🤖 droplet with N(34.391, 0.909)), quality is 0.9413
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.937454861935227], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9314187450165023], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9241198262976892]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt with N(35.762, 1.427), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9314
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15731712.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  31.510241
+3                                        workerRushAI  ...  31.471162
+4                                             izanagi  ...  30.943700
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(33.535, 5.309), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7344
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8160493698009378], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8158694426982087], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.7939722791421147]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(29.106, 4.028), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.816
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8406760247456296], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8364032477005111], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8354226867945393]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(32.425, 3.287), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8354
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8865991999906845], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8832027903416121], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8781005114030496]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(35.286, 2.796), 🤖 droplet with N(34.391, 0.909)), quality is 0.8866
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9075622349138007], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9046362825763554], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8996226027409638]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(35.088, 2.474), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8996
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9109811165888293], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.906122954746058], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8998483589298307]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(35.594, 2.195), 🤖 droplet with N(34.391, 0.909)), quality is 0.911
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins droplet
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9082658125748825], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9019491423051761], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8947813065172814]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(35.968, 1.994), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9019
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.921236723540639], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9155843500446981], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9087009549603177]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(35.746, 1.867), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9156
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9471669842755256], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9455962140234537], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9410171592911097]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(34.65, 1.757), 🤖 izanagi with N(34.125, 1.06)), quality is 0.941
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins izanagi
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9481208856792627], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9451961327835156], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9397474700896399]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(34.987, 1.649), 🤖 droplet with N(34.391, 0.909)), quality is 0.9481
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9518018470362382], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.949071582647986], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9437047771701695]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(34.931, 1.577), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9491
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.955012101400806], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.952503113979997], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9472401608985196]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(34.87, 1.514), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9472
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9597779164140732], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9595025395407808], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9562291308844486]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt with N(34.185, 1.457), 🤖 droplet with N(34.391, 0.909)), quality is 0.9595
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt wins droplet
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/15928320.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  30.307689
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(33.535, 5.309), 🤖 izanagi with N(34.125, 1.06)), quality is 0.7344
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8291498715132373], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8279267203920163], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8275358026880499]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(33.792, 3.84), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8275
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.856821571968034], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8561039257533802], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8518931688884778]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(32.576, 2.997), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8568
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8877932859976846], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8876740817917426], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8834162587345397]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(32.956, 2.614), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8877
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9176338577785589], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.915569051624256], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9109978169286557]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(34.826, 2.344), 🤖 izanagi with N(34.125, 1.06)), quality is 0.911
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9287631297434104], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9270595272313362], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9225990235284687]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(34.71, 2.145), 🤖 droplet with N(34.391, 0.909)), quality is 0.9288
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9366472279038877], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9350826867783821], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9306245540167569]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(34.662, 1.989), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9306
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9428047022149164], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9414714590606282], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9370919960824825]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(34.595, 1.863), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9415
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9433208755432152], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.941353312182423], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9408885976534557]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(33.634, 1.759), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9414
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9476940029643561], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9455647267670269], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9454355348823439]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(33.686, 1.672), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9477
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9513962621376955], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9493163534563132], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9491094590762499]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(33.736, 1.596), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9514
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9572034117524515], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9563085348052003], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9520441289293619]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(34.472, 1.53), 🤖 izanagi with N(34.125, 1.06)), quality is 0.952
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9532692918432562], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9498836965785119], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9440849525252991]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(35.086, 1.475), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9499
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9561936550538089], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9530418127930672], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9473579515160406]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt with N(35.023, 1.424), 🤖 droplet with N(34.391, 0.909)), quality is 0.9562
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16124928.pt wins droplet
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  30.846184
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins guidedRojoA3N
+guidedRojoA3N draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+match_qualities[:3] [[<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.7949411530506474], [<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.7938695896526757], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.774215416301315]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(28.657, 4.307), 🤖 lightRushAI with N(29.408, 1.051)), quality is 0.7949
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins lightRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins lightRushAI
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8314600916230888], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8291668657912904], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8282834375736934]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(32.457, 3.434), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8283
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8770098285523727], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8730061979114248], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8676109159201567]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(35.5, 2.889), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.873
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9021021870980358], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8988367928672675], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8936631955813106]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(35.199, 2.542), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8937
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9252741315375812], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.925111458309754], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9220389231412153]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(34.208, 2.234), 🤖 izanagi with N(34.125, 1.06)), quality is 0.922
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9339071240086776], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9336955836903821], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9306094436341145]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(34.197, 2.06), 🤖 droplet with N(34.391, 0.909)), quality is 0.9337
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9256558725896376], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9250908495578569], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9213567761926174]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(33.121, 1.925), 🤖 droplet with N(34.391, 0.909)), quality is 0.9214
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.9179244026801051], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9018576935470844], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9001792312246949]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(32.286, 1.821), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.9179
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.931018103039782], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9307109749511637], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9262301431782466]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(33.022, 1.733), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.931
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9514702636168704], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9502541590250234], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9486246825942894]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(33.949, 1.646), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9515
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.954309358893242], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.952465764131486], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9476327640520275]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(34.709, 1.574), 🤖 droplet with N(34.391, 0.909)), quality is 0.9543
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9586281305734062], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9582482217741222], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.954293996237463]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(34.345, 1.494), 🤖 droplet with N(34.391, 0.909)), quality is 0.9586
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9606317705678724], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9602307748093875], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9562399655475913]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt with N(34.35, 1.441), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9562
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16321536.pt wins izanagi
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  30.467655
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(25.0, 8.333), 🤖 guidedRojoA3N with N(26.228, 0.979)), quality is 0.5706
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins guidedRojoA3N
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins guidedRojoA3N
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7352276193196678], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.734413991281241], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7338936006483013]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(33.535, 5.309), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.7352
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8147660200436011], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.6982362249321225], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.6890111171492241]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(38.499, 3.961), 🤖 droplet with N(34.391, 0.909)), quality is 0.6982
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8551248880099208], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8082810707011181], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8006126704009012]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(36.978, 3.224), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8006
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8624996604645305], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8610183001015351], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8562329414678688]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(36.213, 2.771), 🤖 coacAI with N(37.891, 1.235)), quality is 0.861
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins coacAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins coacAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9038639602802852], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7556381900304168], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7437431838373901]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(38.367, 2.455), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.7437
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8954022311279106], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.6924318644795502], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.6790290461737687]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(39.231, 2.286), 🤖 droplet with N(34.391, 0.909)), quality is 0.6924
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9184597698540665], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8510117997174149], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8412780823262844]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(37.107, 2.072), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9185
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9053832630472193], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8985607086512435], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.8949579663410607]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(36.102, 1.942), 🤖 coacAI with N(37.891, 1.235)), quality is 0.895
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins coacAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins coacAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9327244940387932], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8478331167666951], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8372322851694851]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(37.299, 1.82), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8372
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9402036029921702], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8098476163184549], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7977109155128229]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(37.885, 1.741), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9402
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9356063709082897], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8664883091243013], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8562850882131796]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(37.078, 1.659), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.8563
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9210221406416094], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9140038038560585], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9067599438708642]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(36.062, 1.577), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.914
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9285668407657783], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8979463789121664], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8890518203005058]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(36.599, 1.521), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9286
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+WARNING: TrainDirection invalid direction
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9246422857237521], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9175326492495373], [<AI: 🤖 coacAI with N(37.891, 1.235)>, 0.9102852411157721]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(36.063, 1.471), 🤖 coacAI with N(37.891, 1.235)), quality is 0.9103
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+coacAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9428077214127716], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9374043853510391], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.930446003461327]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt with N(35.595, 1.427), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9374
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16518144.pt wins workerRushAI
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  31.357012
+4                                             izanagi  ...  30.943700
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(25.0, 8.333), 🤖 rojo with N(26.345, 1.056)), quality is 0.5694
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.7360216481812432], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.7351300779194145], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.7347993484902313]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(33.597, 5.303), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.736
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8299695070473254], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.829214351421836], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8280452075525877]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(33.969, 3.843), 🤖 izanagi with N(34.125, 1.06)), quality is 0.828
+izanagi draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.860672842673259], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.860210240762557], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8553498197409318]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(32.693, 2.988), 🤖 droplet with N(34.391, 0.909)), quality is 0.8553
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins droplet
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8921466951525964], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8916605990498275], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.888268258100176]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(33.11, 2.605), 🤖 droplet with N(34.391, 0.909)), quality is 0.8883
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+match_qualities[:3] [[<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8948579781785565], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8941701023837872], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.8884504915694276]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(32.633, 2.287), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8949
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9321547064016462], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9318868001623455], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9289126806135681]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(34.181, 2.095), 🤖 droplet with N(34.391, 0.909)), quality is 0.9319
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9391641437963782], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9390078117147547], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9357726705930697]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(34.212, 1.949), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9358
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9318328606666296], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9310280820072541], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9277997874253923]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(33.207, 1.833), 🤖 droplet with N(34.391, 0.909)), quality is 0.9278
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9290924777296699], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9290360081366908], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9239503212158495]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(32.931, 1.712), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9291
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9513655065864517], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9497363346104815], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9487879174119818]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(33.847, 1.627), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9514
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9556670381378798], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9542586648309063], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9496861975164539]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(34.6, 1.557), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9543
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9495029066299608], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9455384953814215], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9394155869843707]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(35.235, 1.499), 🤖 droplet with N(34.391, 0.909)), quality is 0.9495
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9527853784803687], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9490504463386698], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9430359046600302]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt with N(35.171, 1.445), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9491
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16714752.pt
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3                                             izanagi  ...  30.943700
+4   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  30.910897
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
+evaluation maps is ['maps/16x16/basesWorkers16x16A.xml']
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.5706042609450162], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.569372689002722], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.5656072235262297]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(25.0, 8.333), 🤖 naiveMCTSAI with N(26.798, 1.042)), quality is 0.5656
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+naiveMCTSAI draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+match_qualities[:3] [[<AI: 🤖 guidedRojoA3N with N(26.228, 0.979)>, 0.8331880648205258], [<AI: 🤖 rojo with N(26.345, 1.056)>, 0.8321562516583184], [<AI: 🤖 naiveMCTSAI with N(26.798, 1.042)>, 0.8313171499894972]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(26.428, 3.781), 🤖 rojo with N(26.345, 1.056)), quality is 0.8322
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins rojo
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins rojo
+match_qualities[:3] [[<AI: 🤖 tiamat with N(29.545, 1.013)>, 0.8715866778477454], [<AI: 🤖 lightRushAI with N(29.408, 1.051)>, 0.8711789917055492], [<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8507806664039719]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(29.345, 3.15), 🤖 mixedBot with N(30.842, 1.015)), quality is 0.8508
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins mixedBot
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins mixedBot
+match_qualities[:3] [[<AI: 🤖 mixedBot with N(30.842, 1.015)>, 0.8848786830981794], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8484952914442601], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.8462908043257893]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(31.945, 2.713), 🤖 izanagi with N(34.125, 1.06)), quality is 0.8485
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins izanagi
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9162394045437763], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9158445250511743], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9132508769626363]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(34.142, 2.405), 🤖 droplet with N(34.391, 0.909)), quality is 0.9158
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins droplet
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9101578600955338], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9052004523122682], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.8988715140740869]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(35.623, 2.196), 🤖 droplet with N(34.391, 0.909)), quality is 0.9102
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9355862589299071], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9354309414714315], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9322337563626228]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(34.212, 2.025), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9356
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins workerRushAI
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+match_qualities[:3] [[<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9417867244705054], [<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9416332943766853], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9383641399498557]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(34.213, 1.892), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9418
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9395626739591756], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9360210477718389], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9302763314478648]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(35.161, 1.785), 🤖 droplet with N(34.391, 0.909)), quality is 0.9396
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins droplet
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9370665954217618], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9322611920926853], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.925743538162676]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(35.477, 1.672), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9257
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins izanagi
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9431584185876479], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9387867475743251], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9324766550912522]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(35.352, 1.597), 🤖 droplet with N(34.391, 0.909)), quality is 0.9432
+droplet draws models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+droplet wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9545495789774012], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9518839025174151], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9465268795230343]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(34.909, 1.513), 🤖 izanagi with N(34.125, 1.06)), quality is 0.9465
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins izanagi
+izanagi wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9573741966651272], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.954942783381964], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9497020300368892]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(34.847, 1.458), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9549
+workerRushAI wins models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins workerRushAI
+match_qualities[:3] [[<AI: 🤖 droplet with N(34.391, 0.909)>, 0.9596607069440701], [<AI: 🤖 workerRushAI with N(34.23, 0.92)>, 0.9573960917141804], [<AI: 🤖 izanagi with N(34.125, 1.06)>, 0.9522348228228529]]
+the match up is (🤖 models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt with N(34.803, 1.408), 🤖 workerRushAI with N(34.23, 0.92)), quality is 0.9574
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins workerRushAI
+models/MicroRTSGridModeVecEnv__ppo-r2d2-large-20mil__3__1690447804/16911360.pt wins workerRushAI
+=======================
+                                                 name  ...  trueskill
+0                                              coacAI  ...  34.186641
+1                                             droplet  ...  31.663194
+2                                        workerRushAI  ...  31.471162
+3   models/MicroRTSGridModeVecEnv__ppo-r2d2-large-...  ...  31.216908
+4                                             izanagi  ...  30.943700
+5                                            mixedBot  ...  27.796883
+6                                              tiamat  ...  26.506154
+7                                         lightRushAI  ...  26.254774
+8                                         naiveMCTSAI  ...  23.671460
+9                                       guidedRojoA3N  ...  23.291784
+10                                               rojo  ...  23.176669
+11                                     randomBiasedAI  ...  10.720780
+12                                           randomAI  ...   8.318860
+13                                          passiveAI  ...  -0.622923
+
+[14 rows x 4 columns]
